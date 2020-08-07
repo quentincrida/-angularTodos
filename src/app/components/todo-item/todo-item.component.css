@@ -1,0 +1,19 @@
+.del {
+    background: rgba(35, 212, 35, 0.8);
+    color: #fff;
+    border: 3px solid black;
+    padding: 5px 12px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: right;
+}
+
+.todo {
+    background: orangered;
+    padding: 10px;
+    border-bottom: 1px #ccc double;
+}
+
+.is-complete {
+    text-decoration: line-through;
+}
